@@ -1,0 +1,1355 @@
+EESchema Schematic File Version 4
+LIBS:Microcontroller board-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 1750 1275 2    50   ~ 0
+GND
+Text Label 1750 1425 2    50   ~ 0
+GND
+Text Label 1750 1500 2    50   ~ 0
+PC1
+Text Label 1750 1575 2    50   ~ 0
+PC3
+Text Label 1750 1650 2    50   ~ 0
+PA1
+Text Label 1750 1725 2    50   ~ 0
+PA3
+Text Label 1750 1800 2    50   ~ 0
+PA5
+Text Label 1750 1875 2    50   ~ 0
+PA7
+Text Label 1750 1950 2    50   ~ 0
+PC5
+Text Label 1750 2025 2    50   ~ 0
+PB1
+Text Label 1750 2100 2    50   ~ 0
+GND
+Text Label 1750 2175 2    50   ~ 0
+PE7
+Text Label 1750 2250 2    50   ~ 0
+PE9
+Text Label 1750 2325 2    50   ~ 0
+PE11
+Text Label 1750 2400 2    50   ~ 0
+PE13
+Text Label 1750 2475 2    50   ~ 0
+PE15
+Text Label 1750 2550 2    50   ~ 0
+PB11
+Text Label 1750 2625 2    50   ~ 0
+PB13
+Text Label 1750 2700 2    50   ~ 0
+PB15
+Text Label 1750 2775 2    50   ~ 0
+PD9
+Text Label 1750 2850 2    50   ~ 0
+PD11
+Text Label 1750 2925 2    50   ~ 0
+PD13
+Text Label 1750 3000 2    50   ~ 0
+PD15
+Text Label 1750 3075 2    50   ~ 0
+GND
+Text Label 2150 3075 0    50   ~ 0
+GND
+Text Label 2150 2925 0    50   ~ 0
+PD14
+Text Label 2150 2850 0    50   ~ 0
+PD12
+Text Label 2150 2775 0    50   ~ 0
+PD10
+Text Label 2150 2700 0    50   ~ 0
+PD8
+Text Label 2150 2625 0    50   ~ 0
+PB14
+Text Label 2150 2550 0    50   ~ 0
+PB12
+Text Label 2150 2475 0    50   ~ 0
+PB10
+Text Label 2150 2400 0    50   ~ 0
+PE14
+Text Label 2150 2325 0    50   ~ 0
+PE12
+Text Label 2150 2250 0    50   ~ 0
+PE10
+Text Label 2150 2175 0    50   ~ 0
+PE8
+Text Label 2150 2100 0    50   ~ 0
+PB2
+Text Label 2150 2025 0    50   ~ 0
+PB0
+Text Label 2150 1950 0    50   ~ 0
+PC4
+Text Label 2150 1875 0    50   ~ 0
+PA6
+Text Label 2150 1800 0    50   ~ 0
+PA4
+Text Label 2150 1725 0    50   ~ 0
+PA2
+Text Label 2150 1650 0    50   ~ 0
+PA0
+Text Label 2150 1575 0    50   ~ 0
+PC2
+Text Label 2150 1500 0    50   ~ 0
+PC0
+Text Label 2150 1425 0    50   ~ 0
+NRST
+Text Label 2150 1275 0    50   ~ 0
+GND
+Text Label 2950 1275 2    50   ~ 0
+GND
+Text Label 2950 1350 2    50   ~ 0
+5V
+Text Label 2950 1425 2    50   ~ 0
+3v3
+Text Label 2950 1500 2    50   ~ 0
+PH0
+Text Label 2950 1575 2    50   ~ 0
+PC14
+Text Label 2950 1650 2    50   ~ 0
+PE6
+Text Label 2950 1725 2    50   ~ 0
+PE4
+Text Label 2950 1800 2    50   ~ 0
+PE2
+Text Label 2950 1875 2    50   ~ 0
+PE0
+Text Label 2950 1950 2    50   ~ 0
+PB8
+Text Label 2950 2025 2    50   ~ 0
+BOOT0
+Text Label 2950 2100 2    50   ~ 0
+PB6
+Text Label 2950 2175 2    50   ~ 0
+PB4
+Text Label 2950 2250 2    50   ~ 0
+PD7
+Text Label 2950 2325 2    50   ~ 0
+PD5
+Text Label 2950 2400 2    50   ~ 0
+PD3
+Text Label 2950 2475 2    50   ~ 0
+PD1
+Text Label 2950 2550 2    50   ~ 0
+PC12
+Text Label 2950 2625 2    50   ~ 0
+PC10
+Text Label 2950 2700 2    50   ~ 0
+PA14
+Text Label 2950 2775 2    50   ~ 0
+PA10
+Text Label 2950 2850 2    50   ~ 0
+PA8
+Text Label 2950 2925 2    50   ~ 0
+PC8
+Text Label 2950 3000 2    50   ~ 0
+PC6
+Text Label 2950 3075 2    50   ~ 0
+GND
+Text Label 3350 3075 0    50   ~ 0
+GND
+Text Label 3350 3000 0    50   ~ 0
+PC7
+Text Label 3350 2925 0    50   ~ 0
+PC9
+Text Label 3350 2850 0    50   ~ 0
+PA9
+Text Label 3350 2775 0    50   ~ 0
+PA13
+Text Label 3350 2700 0    50   ~ 0
+PA15
+Text Label 3350 2625 0    50   ~ 0
+PC11
+Text Label 3350 2550 0    50   ~ 0
+PD0
+Text Label 3350 2475 0    50   ~ 0
+PD2
+Text Label 3350 2400 0    50   ~ 0
+PD4
+Text Label 3350 2325 0    50   ~ 0
+PD6
+Text Label 3350 2250 0    50   ~ 0
+PB3
+Text Label 3350 2175 0    50   ~ 0
+PB5
+Text Label 3350 2100 0    50   ~ 0
+PB7
+Text Label 3350 2025 0    50   ~ 0
+VDD
+Text Label 3350 1950 0    50   ~ 0
+PB9
+Text Label 3350 1875 0    50   ~ 0
+PE1
+Text Label 3350 1800 0    50   ~ 0
+PE3
+Text Label 3350 1725 0    50   ~ 0
+PE5
+Text Label 3350 1650 0    50   ~ 0
+PC13
+Text Label 3350 1575 0    50   ~ 0
+PC15
+Text Label 3350 1500 0    50   ~ 0
+PH1
+Text Label 3350 1350 0    50   ~ 0
+5V
+Text Label 3350 1275 0    50   ~ 0
+GND
+Text Notes 2200 3450 0    50   ~ 0
+MICROCONTROLLER
+Wire Notes Line
+	4700 3600 4700 500 
+$Comp
+L Connector:DB9_Female_MountingHoles J4
+U 1 1 5C733E8E
+P 5440 990
+F 0 "J4" V 5757 947 50  0000 C CNN
+F 1 "MOTOR" V 5666 947 50  0000 C CNN
+F 2 "Common Components:y" H 5440 990 50  0001 C CNN
+F 3 " ~" H 5440 990 50  0001 C CNN
+	1    5440 990 
+	0    -1   -1   0   
+$EndComp
+Text Label 5340 1290 3    50   ~ 0
+PC8
+Text Label 5540 1290 3    50   ~ 0
+PC7
+$Comp
+L Connector:DB9_Female_MountingHoles J3
+U 1 1 5C733FEC
+P 5390 2070
+F 0 "J3" V 5707 2027 50  0000 C CNN
+F 1 "Encoder" V 5616 2027 50  0000 C CNN
+F 2 "Common Components:y" H 5390 2070 50  0001 C CNN
+F 3 " ~" H 5390 2070 50  0001 C CNN
+	1    5390 2070
+	0    -1   -1   0   
+$EndComp
+Text Label 5190 2370 3    50   ~ 0
+PC6
+Text Label 5390 2370 3    50   ~ 0
+PA7
+Text Label 4990 2370 3    50   ~ 0
+PE9
+Text Label 5090 2370 3    50   ~ 0
+PE11
+Text Label 5790 2370 3    50   ~ 0
+PA1
+Text Label 5590 2370 3    50   ~ 0
+PA5
+Text Label 5990 2070 0    50   ~ 0
+GND
+Text Label 5740 1290 3    50   ~ 0
+PC9
+Text Label 5640 1290 3    50   ~ 0
+PA10
+Text Label 5840 1290 3    50   ~ 0
+PA8
+Text Label 5040 1290 3    50   ~ 0
+PD0
+Text Label 5140 1290 3    50   ~ 0
+PD2
+Text Label 5240 1290 3    50   ~ 0
+PC11
+Text Label 5440 1290 3    50   ~ 0
+PA15
+Text Notes 6490 3440 0    50   ~ 0
+PERIHERALS
+NoConn ~ 1750 1350
+NoConn ~ 2150 1350
+Text Notes 9930 3460 0    50   ~ 0
+MISC
+$Comp
+L MODULES_AND_BOARDS:STM32F407_Discovery U1
+U 1 1 5C743252
+P 2550 2400
+F 0 "U1" H 2550 4212 60  0000 C CNN
+F 1 "STM32F407_Discovery" H 2550 4106 60  0000 C CNN
+F 2 "Common Components:STM32F407_Discovery" H 2550 2400 60  0001 C CNN
+F 3 "" H 2550 2400 60  0001 C CNN
+	1    2550 2400
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2150 3000
+Text Label 6040 990  0    50   ~ 0
+GND
+$Comp
+L Device:LED D3
+U 1 1 5C7403FC
+P 10440 1090
+F 0 "D3" V 10530 1040 50  0000 C CNN
+F 1 "5V" H 10440 1180 50  0000 C CNN
+F 2 "Common Components:LED_D3.0mm" H 10440 1090 50  0001 C CNN
+F 3 "~" H 10440 1090 50  0001 C CNN
+	1    10440 1090
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 5C74063D
+P 10440 790
+F 0 "R8" V 10340 790 50  0000 C CNN
+F 1 "1K5" V 10440 790 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 10370 790 50  0001 C CNN
+F 3 "~" H 10440 790 50  0001 C CNN
+	1    10440 790 
+	-1   0    0    1   
+$EndComp
+Text Label 10440 1240 3    50   ~ 0
+GND
+$Comp
+L Device:LED D4
+U 1 1 5C7407AB
+P 10700 1080
+F 0 "D4" V 10790 1020 50  0000 C CNN
+F 1 "3V3" H 10710 1170 50  0000 C CNN
+F 2 "Common Components:LED_D3.0mm" H 10700 1080 50  0001 C CNN
+F 3 "~" H 10700 1080 50  0001 C CNN
+	1    10700 1080
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 5C7407B2
+P 10700 780
+F 0 "R9" V 10770 780 50  0000 C CNN
+F 1 "1K5" V 10700 780 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 10630 780 50  0001 C CNN
+F 3 "~" H 10700 780 50  0001 C CNN
+	1    10700 780 
+	-1   0    0    1   
+$EndComp
+Text Label 10700 1230 3    50   ~ 0
+GND
+Text Label 9900 950  3    50   ~ 0
+5V
+Text Label 9900 1180 3    50   ~ 0
+12V
+Text Label 10440 640  2    50   ~ 0
+5V
+Text Label 8120 1310 3    50   ~ 0
+PB15
+Text Label 8320 1310 3    50   ~ 0
+PB13
+Text Label 7920 1310 3    50   ~ 0
+PD9
+Text Label 3350 1425 0    50   ~ 0
+3v3
+Text Label 9900 720  3    50   ~ 0
+3V3
+Text Label 9430 920  3    50   ~ 0
+12V
+$Comp
+L Device:R R13
+U 1 1 5CCE7203
+P 9200 2260
+F 0 "R13" V 9120 2220 50  0000 C CNN
+F 1 "R" V 9200 2250 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9130 2260 50  0001 C CNN
+F 3 "~" H 9200 2260 50  0001 C CNN
+	1    9200 2260
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 5CCE720A
+P 9500 2260
+F 0 "R14" V 9420 2220 50  0000 C CNN
+F 1 "R" V 9500 2260 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9430 2260 50  0001 C CNN
+F 3 "~" H 9500 2260 50  0001 C CNN
+	1    9500 2260
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 5CCE7211
+P 9500 2380
+F 0 "R15" V 9580 2380 50  0000 C CNN
+F 1 "R" V 9500 2380 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9430 2380 50  0001 C CNN
+F 3 "~" H 9500 2380 50  0001 C CNN
+	1    9500 2380
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 5CCE721F
+P 9200 2380
+F 0 "R17" V 9280 2380 50  0000 C CNN
+F 1 "R" V 9200 2380 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9130 2380 50  0001 C CNN
+F 3 "~" H 9200 2380 50  0001 C CNN
+	1    9200 2380
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 5CCE7226
+P 9500 2550
+F 0 "R18" V 9580 2510 50  0000 C CNN
+F 1 "R" V 9500 2550 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9430 2550 50  0001 C CNN
+F 3 "~" H 9500 2550 50  0001 C CNN
+	1    9500 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 5CCE722D
+P 9200 2550
+F 0 "R19" V 9280 2510 50  0000 C CNN
+F 1 "R" V 9200 2550 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9130 2550 50  0001 C CNN
+F 3 "~" H 9200 2550 50  0001 C CNN
+	1    9200 2550
+	0    1    1    0   
+$EndComp
+Text Label 9350 2100 2    50   ~ 0
+3V3
+Text Label 9050 2550 2    50   ~ 0
+PD9
+Text Label 9650 2550 0    50   ~ 0
+PD10
+Text Label 9650 2380 0    50   ~ 0
+PD11
+Text Label 9050 2380 2    50   ~ 0
+PB13
+Text Label 9050 2260 2    50   ~ 0
+PE14
+Text Label 9650 2260 0    50   ~ 0
+PB15
+$Comp
+L Device:C C9
+U 1 1 5CCE99EA
+P 10410 2070
+F 0 "C9" V 10450 2160 50  0000 C CNN
+F 1 "C" V 10450 2010 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 10448 1920 50  0001 C CNN
+F 3 "~" H 10410 2070 50  0001 C CNN
+	1    10410 2070
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C10
+U 1 1 5CCE9F2D
+P 10710 2070
+F 0 "C10" V 10740 2180 50  0000 C CNN
+F 1 "C" V 10750 2010 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Medium" H 10748 1920 50  0001 C CNN
+F 3 "~" H 10710 2070 50  0001 C CNN
+	1    10710 2070
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C11
+U 1 1 5CCE9FF5
+P 10410 2260
+F 0 "C11" V 10450 2380 50  0000 C CNN
+F 1 "C" V 10450 2200 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 10448 2110 50  0001 C CNN
+F 3 "~" H 10410 2260 50  0001 C CNN
+	1    10410 2260
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C13
+U 1 1 5CCEA18B
+P 10710 2260
+F 0 "C13" V 10750 2370 50  0000 C CNN
+F 1 "C" V 10750 2200 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 10748 2110 50  0001 C CNN
+F 3 "~" H 10710 2260 50  0001 C CNN
+	1    10710 2260
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C14
+U 1 1 5CCEA259
+P 10410 2460
+F 0 "C14" V 10450 2570 50  0000 C CNN
+F 1 "C" V 10450 2400 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 10448 2310 50  0001 C CNN
+F 3 "~" H 10410 2460 50  0001 C CNN
+	1    10410 2460
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C15
+U 1 1 5CCEA32D
+P 10710 2460
+F 0 "C15" V 10760 2570 50  0000 C CNN
+F 1 "C" V 10760 2390 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 10748 2310 50  0001 C CNN
+F 3 "~" H 10710 2460 50  0001 C CNN
+	1    10710 2460
+	0    1    1    0   
+$EndComp
+Text Label 10260 2660 2    50   ~ 0
+PD8
+Text Label 10260 2460 2    50   ~ 0
+PD9
+Text Label 10260 2070 2    50   ~ 0
+PD10
+Text Label 10260 2260 2    50   ~ 0
+PD11
+Text Label 10860 2460 0    50   ~ 0
+PB13
+Text Label 10860 2070 0    50   ~ 0
+PB15
+Text Label 7720 1310 3    50   ~ 0
+GND
+Text Label 8520 1010 0    50   ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x02 J6
+U 1 1 5CCEEF9D
+P 9190 730
+F 0 "J6" H 9240 820 50  0000 R CNN
+F 1 "Conn_01x02" H 9240 930 50  0001 R CNN
+F 2 "Common Components:Connector_Bornier_2" H 9190 730 50  0001 C CNN
+F 3 "~" H 9190 730 50  0001 C CNN
+	1    9190 730 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J7
+U 1 1 5CCEF0EE
+P 9190 930
+F 0 "J7" H 9240 730 50  0000 R CNN
+F 1 "POWER" H 9140 740 50  0000 R CNN
+F 2 "Common Components:Connector_Bornier_2" H 9190 930 50  0001 C CNN
+F 3 "~" H 9190 930 50  0001 C CNN
+	1    9190 930 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C7
+U 1 1 5CCEA326
+P 10410 2660
+F 0 "C7" V 10450 2750 50  0000 C CNN
+F 1 "C" V 10450 2600 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 10448 2510 50  0001 C CNN
+F 3 "~" H 10410 2660 50  0001 C CNN
+	1    10410 2660
+	0    1    1    0   
+$EndComp
+Text Label 10860 2260 0    50   ~ 0
+PE14
+Text Label 1600 4160 3    50   ~ 0
+PD10
+Text Label 2170 4170 3    50   ~ 0
+PD8
+Text Label 690  5160 2    50   ~ 0
+PA2
+Text Label 2880 5160 2    50   ~ 0
+PC2
+Text Label 1300 4160 2    50   ~ 0
+m1
+Text Label 680  4130 2    50   ~ 0
+m2
+Text Label 7620 1310 3    50   ~ 0
+m1
+Text Label 7820 1310 3    50   ~ 0
+m2
+Text Label 10560 2660 0    50   ~ 0
+GND
+Text Label 5490 2370 3    50   ~ 0
+5V
+Text Label 5690 2370 3    50   ~ 0
+GND
+$Comp
+L Connector:DB9_Female_MountingHoles J1
+U 1 1 5CE17650
+P 7920 1010
+F 0 "J1" V 8237 967 50  0000 C CNN
+F 1 "INETRRUPTS" V 8146 967 50  0000 C CNN
+F 2 "Common Components:y" H 7920 1010 50  0001 C CNN
+F 3 " ~" H 7920 1010 50  0001 C CNN
+	1    7920 1010
+	0    -1   -1   0   
+$EndComp
+Text Label 8020 1310 3    50   ~ 0
+5V
+$Comp
+L Device:R R7
+U 1 1 5CCE70CF
+P 9500 2100
+F 0 "R7" V 9420 2040 50  0000 C CNN
+F 1 "R" V 9500 2100 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 9430 2100 50  0001 C CNN
+F 3 "~" H 9500 2100 50  0001 C CNN
+	1    9500 2100
+	0    1    1    0   
+$EndComp
+Text Label 9650 2100 0    50   ~ 0
+PD8
+Wire Notes Line
+	8800 3600 8800 500 
+Wire Notes Line
+	11110 500  11110 3600
+Wire Notes Line
+	500  500  11110 500 
+Wire Notes Line
+	500  3600 11110 3600
+Wire Wire Line
+	9350 2260 9350 2380
+Connection ~ 9350 2260
+Connection ~ 9350 2380
+Wire Wire Line
+	9350 2380 9350 2550
+Connection ~ 9350 2550
+Wire Wire Line
+	10560 2070 10560 2260
+Connection ~ 10560 2070
+Connection ~ 10560 2260
+Wire Wire Line
+	10560 2260 10560 2460
+Connection ~ 10560 2460
+Wire Wire Line
+	10560 2460 10560 2660
+Wire Wire Line
+	9350 2100 9350 2260
+$Comp
+L Device:C C1
+U 1 1 5CE5B2AC
+P 10050 720
+F 0 "C1" V 10010 810 50  0000 C CNN
+F 1 "C" V 10090 650 50  0000 C CNN
+F 2 "Common Components:Capacitor_100uF" H 10088 570 50  0001 C CNN
+F 3 "~" H 10050 720 50  0001 C CNN
+	1    10050 720 
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5CE5B4AD
+P 10050 950
+F 0 "C3" V 10020 1040 50  0000 C CNN
+F 1 "C" V 10100 880 50  0000 C CNN
+F 2 "Common Components:Capacitor_100uF" H 10088 800 50  0001 C CNN
+F 3 "~" H 10050 950 50  0001 C CNN
+	1    10050 950 
+	0    1    1    0   
+$EndComp
+Text Label 10200 720  3    50   ~ 0
+GND
+Text Label 10200 950  3    50   ~ 0
+GND
+Text Label 9530 920  3    50   ~ 0
+5V
+Text Label 9330 920  3    50   ~ 0
+3V3
+$Comp
+L Connector_Generic:Conn_01x04 J2
+U 1 1 5CE484D2
+P 5070 2840
+F 0 "J2" V 5170 2990 50  0000 R CNN
+F 1 "IMU" V 5170 2850 50  0000 R CNN
+F 2 "Common Components:JST-01X05-W-0.91-L-1.95-P-3.96mm_VERTICAL" H 5070 2840 50  0001 C CNN
+F 3 "~" H 5070 2840 50  0001 C CNN
+	1    5070 2840
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5CE65A5B
+P 10050 1180
+AR Path="/5CE28A52/5CE65A5B" Ref="C?"  Part="1" 
+AR Path="/5CE65A5B" Ref="C4"  Part="1" 
+F 0 "C4" V 10010 1270 50  0000 C CNN
+F 1 "C" V 10090 1110 50  0000 C CNN
+F 2 "Common Components:Capacitor_100uF" H 10088 1030 50  0001 C CNN
+F 3 "~" H 10050 1180 50  0001 C CNN
+	1    10050 1180
+	0    1    1    0   
+$EndComp
+Text Label 10200 1180 3    50   ~ 0
+GND
+$Comp
+L Device:C C5
+U 1 1 5CE6697A
+P 8890 4120
+F 0 "C5" V 8638 4120 50  0000 C CNN
+F 1 "C" V 8729 4120 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 3970 50  0001 C CNN
+F 3 "~" H 8890 4120 50  0001 C CNN
+	1    8890 4120
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C21
+U 1 1 5CE66B55
+P 9190 4120
+F 0 "C21" V 8938 4120 50  0000 C CNN
+F 1 "C" V 9029 4120 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 9228 3970 50  0001 C CNN
+F 3 "~" H 9190 4120 50  0001 C CNN
+	1    9190 4120
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 5CE66CD1
+P 8890 4300
+F 0 "C6" V 8638 4300 50  0000 C CNN
+F 1 "C" V 8729 4300 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 4150 50  0001 C CNN
+F 3 "~" H 8890 4300 50  0001 C CNN
+	1    8890 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C22
+U 1 1 5CE66D53
+P 9190 4300
+F 0 "C22" V 8938 4300 50  0000 C CNN
+F 1 "C" V 9029 4300 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 9228 4150 50  0001 C CNN
+F 3 "~" H 9190 4300 50  0001 C CNN
+	1    9190 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C8
+U 1 1 5CE66DD1
+P 8890 4480
+F 0 "C8" V 8638 4480 50  0000 C CNN
+F 1 "C" V 8729 4480 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 4330 50  0001 C CNN
+F 3 "~" H 8890 4480 50  0001 C CNN
+	1    8890 4480
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C23
+U 1 1 5CE66EB5
+P 9190 4480
+F 0 "C23" V 8938 4480 50  0000 C CNN
+F 1 "C" V 9029 4480 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 9228 4330 50  0001 C CNN
+F 3 "~" H 9190 4480 50  0001 C CNN
+	1    9190 4480
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C12
+U 1 1 5CE672C3
+P 8890 4660
+F 0 "C12" V 8638 4660 50  0000 C CNN
+F 1 "C" V 8729 4660 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 4510 50  0001 C CNN
+F 3 "~" H 8890 4660 50  0001 C CNN
+	1    8890 4660
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C24
+U 1 1 5CE672CA
+P 9190 4660
+F 0 "C24" V 8938 4660 50  0000 C CNN
+F 1 "C" V 9029 4660 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 9228 4510 50  0001 C CNN
+F 3 "~" H 9190 4660 50  0001 C CNN
+	1    9190 4660
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C16
+U 1 1 5CE672D1
+P 8890 4840
+F 0 "C16" V 8638 4840 50  0000 C CNN
+F 1 "C" V 8729 4840 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 4690 50  0001 C CNN
+F 3 "~" H 8890 4840 50  0001 C CNN
+	1    8890 4840
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C25
+U 1 1 5CE672D8
+P 9190 4840
+F 0 "C25" V 8938 4840 50  0000 C CNN
+F 1 "C" V 9029 4840 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 9228 4690 50  0001 C CNN
+F 3 "~" H 9190 4840 50  0001 C CNN
+	1    9190 4840
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C18
+U 1 1 5CE67B61
+P 8890 5200
+F 0 "C18" V 8638 5200 50  0000 C CNN
+F 1 "C" V 8729 5200 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Medium" H 8928 5050 50  0001 C CNN
+F 3 "~" H 8890 5200 50  0001 C CNN
+	1    8890 5200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C19
+U 1 1 5CE67B6F
+P 8890 5380
+F 0 "C19" V 8638 5380 50  0000 C CNN
+F 1 "C" V 8729 5380 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 5230 50  0001 C CNN
+F 3 "~" H 8890 5380 50  0001 C CNN
+	1    8890 5380
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C20
+U 1 1 5CE67B7D
+P 8890 5560
+F 0 "C20" V 8638 5560 50  0000 C CNN
+F 1 "C" V 8729 5560 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Small" H 8928 5410 50  0001 C CNN
+F 3 "~" H 8890 5560 50  0001 C CNN
+	1    8890 5560
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9040 5560 9040 5380
+Connection ~ 9040 5380
+Wire Wire Line
+	9040 5380 9040 5200
+Connection ~ 9040 5200
+Wire Wire Line
+	9040 5200 9040 5020
+Connection ~ 9040 5020
+Wire Wire Line
+	9040 5020 9040 4840
+Connection ~ 9040 4840
+Wire Wire Line
+	9040 4840 9040 4660
+Connection ~ 9040 4660
+Wire Wire Line
+	9040 4660 9040 4480
+Connection ~ 9040 4480
+Wire Wire Line
+	9040 4480 9040 4300
+Connection ~ 9040 4300
+Wire Wire Line
+	9040 4300 9040 4120
+Connection ~ 9040 4120
+Wire Wire Line
+	9040 4120 9040 4000
+Text Label 9040 4000 1    50   ~ 0
+GND
+$Comp
+L Connector:DB9_Female_MountingHoles J11
+U 1 1 5CE6C425
+P 7930 1980
+F 0 "J11" V 8140 2000 50  0000 L CNN
+F 1 "BUTTONS" V 8130 1570 50  0000 L CNN
+F 2 "Common Components:y" H 7930 1980 50  0001 C CNN
+F 3 " ~" H 7930 1980 50  0001 C CNN
+	1    7930 1980
+	0    -1   -1   0   
+$EndComp
+Text Label 8330 2280 3    50   ~ 0
+PE2
+Text Label 8130 2280 3    50   ~ 0
+PB4
+Text Label 7530 2280 3    50   ~ 0
+PD1
+Text Label 7630 2280 3    50   ~ 0
+PC12
+Text Label 7830 2280 3    50   ~ 0
+PC10
+Text Label 8230 2280 3    50   ~ 0
+GND
+Text Label 8030 2280 3    50   ~ 0
+3V3
+Text Label 7930 2280 3    50   ~ 0
+PD5
+Text Label 8530 1980 0    50   ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x01 J12
+U 1 1 5CE7E8FB
+P 5890 4210
+F 0 "J12" H 5810 3985 50  0000 C CNN
+F 1 "Conn_01x01" H 5810 4076 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5890 4210 50  0001 C CNN
+F 3 "~" H 5890 4210 50  0001 C CNN
+	1    5890 4210
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J13
+U 1 1 5CE7EB77
+P 6290 4210
+F 0 "J13" H 6370 4252 50  0000 L CNN
+F 1 "Conn_01x01" H 6370 4161 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6290 4210 50  0001 C CNN
+F 3 "~" H 6290 4210 50  0001 C CNN
+	1    6290 4210
+	1    0    0    -1  
+$EndComp
+Text Label 6090 4210 3    50   ~ 0
+GND
+Text Label 1780 5160 2    50   ~ 0
+PC1
+Wire Wire Line
+	8740 4120 8740 4300
+Wire Wire Line
+	8740 4300 8740 4480
+Connection ~ 8740 4300
+Wire Wire Line
+	9340 4840 9340 4660
+Wire Wire Line
+	9340 4660 9340 4480
+Connection ~ 9340 4660
+Wire Wire Line
+	9340 4480 9340 4300
+Connection ~ 9340 4480
+Wire Wire Line
+	9340 4300 9340 4120
+Connection ~ 9340 4300
+Text Label 9340 4300 0    50   ~ 0
+5V
+Text Label 8740 4300 2    50   ~ 0
+3V3
+Text Label 8740 5200 2    50   ~ 0
+12V
+$Comp
+L Device:C C17
+U 1 1 5CE672DF
+P 8890 5020
+F 0 "C17" V 8638 5020 50  0000 C CNN
+F 1 "C" V 8729 5020 50  0000 C CNN
+F 2 "Common Components:Capacitor_Disc_Medium" H 8928 4870 50  0001 C CNN
+F 3 "~" H 8890 5020 50  0001 C CNN
+	1    8890 5020
+	0    1    1    0   
+$EndComp
+Text Label 8740 5560 2    50   ~ 0
+12V
+Wire Wire Line
+	8740 5380 8570 5380
+$Comp
+L Connector_Generic:Conn_01x01 J24
+U 1 1 5CEA565A
+P 5890 4750
+F 0 "J24" H 5810 4525 50  0000 C CNN
+F 1 "Conn_01x01" H 5810 4616 50  0000 C CNN
+F 2 "Common Components:x" H 5890 4750 50  0001 C CNN
+F 3 "~" H 5890 4750 50  0001 C CNN
+	1    5890 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J25
+U 1 1 5CEA5661
+P 6290 4750
+F 0 "J25" H 6370 4792 50  0000 L CNN
+F 1 "Conn_01x01" H 6370 4701 50  0000 L CNN
+F 2 "Common Components:x" H 6290 4750 50  0001 C CNN
+F 3 "~" H 6290 4750 50  0001 C CNN
+	1    6290 4750
+	1    0    0    -1  
+$EndComp
+Text Label 6090 4750 3    50   ~ 0
+GND
+Text Label 6020 2950 0    50   ~ 0
+PE6
+Text Label 7520 1310 3    50   ~ 0
+m0
+Text Label 1870 4170 2    50   ~ 0
+m0
+Text Label 8220 1310 3    50   ~ 0
+PE14
+Text Label 980  4130 3    50   ~ 0
+PD11
+Text Label 5170 3040 3    50   ~ 0
+5V
+Text Label 5270 3040 3    50   ~ 0
+GND
+Text Label 4970 3040 3    50   ~ 0
+PB8
+Text Label 5070 3040 3    50   ~ 0
+PB9
+Text Label 6020 3050 0    50   ~ 0
+GND
+Text Label 10700 630  2    50   ~ 0
+3V3
+$Comp
+L Connector_Generic:Conn_02x02_Counter_Clockwise J8
+U 1 1 5D1BA4AE
+P 5820 3050
+F 0 "J8" V 5693 3130 50  0000 L CNN
+F 1 "INT_TEST" V 5920 2830 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" H 5820 3050 50  0001 C CNN
+F 3 "~" H 5820 3050 50  0001 C CNN
+	1    5820 3050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5D1EC47D
+P 830 4130
+F 0 "D1" H 830 4346 50  0000 C CNN
+F 1 "D" H 830 4255 50  0000 C CNN
+F 2 "Common Components:Diode_Small" H 830 4130 50  0001 C CNN
+F 3 "~" H 830 4130 50  0001 C CNN
+	1    830  4130
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5D1EC82D
+P 1450 4160
+F 0 "D2" H 1450 4376 50  0000 C CNN
+F 1 "D" H 1450 4285 50  0000 C CNN
+F 2 "Common Components:Diode_Small" H 1450 4160 50  0001 C CNN
+F 3 "~" H 1450 4160 50  0001 C CNN
+	1    1450 4160
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5D1ED84E
+P 2020 4170
+F 0 "D5" H 2020 4386 50  0000 C CNN
+F 1 "D" H 2020 4295 50  0000 C CNN
+F 2 "Common Components:Diode_Small" H 2020 4170 50  0001 C CNN
+F 3 "~" H 2020 4170 50  0001 C CNN
+	1    2020 4170
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:TIP122 Q1
+U 1 1 5D1F0819
+P 1190 5160
+F 0 "Q1" H 1397 5206 50  0000 L CNN
+F 1 "TIP122" H 1020 5330 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220F-3_Horizontal_TabUp" H 1390 5085 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/TI/TIP120.pdf" H 1190 5160 50  0001 L CNN
+	1    1190 5160
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5D1F0A02
+P 840 5160
+F 0 "R1" V 750 5160 50  0000 C CNN
+F 1 "R" V 840 5160 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 770 5160 50  0001 C CNN
+F 3 "~" H 840 5160 50  0001 C CNN
+	1    840  5160
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5D1F0C21
+P 990 5310
+F 0 "R3" V 900 5290 50  0000 L CNN
+F 1 "R" V 990 5290 50  0000 L CNN
+F 2 "Common Components:Resistor_small" V 920 5310 50  0001 C CNN
+F 3 "~" H 990 5310 50  0001 C CNN
+	1    990  5310
+	1    0    0    -1  
+$EndComp
+Connection ~ 990  5160
+Text Label 1290 4960 1    50   ~ 0
+OUT0
+Text Label 990  5460 3    50   ~ 0
+GND
+Text Label 1290 5360 3    50   ~ 0
+GND
+$Comp
+L Transistor_BJT:TIP122 Q2
+U 1 1 5D1F2A52
+P 2280 5160
+F 0 "Q2" H 2487 5206 50  0000 L CNN
+F 1 "TIP122" H 2120 5330 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220F-3_Horizontal_TabUp" H 2480 5085 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/TI/TIP120.pdf" H 2280 5160 50  0001 L CNN
+	1    2280 5160
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5D1F2A59
+P 1930 5160
+F 0 "R5" V 1850 5160 50  0000 C CNN
+F 1 "R" V 1930 5160 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 1860 5160 50  0001 C CNN
+F 3 "~" H 1930 5160 50  0001 C CNN
+	1    1930 5160
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 5D1F2A60
+P 2080 5310
+F 0 "R6" V 2000 5260 50  0000 L CNN
+F 1 "R" V 2080 5280 50  0000 L CNN
+F 2 "Common Components:Resistor_small" V 2010 5310 50  0001 C CNN
+F 3 "~" H 2080 5310 50  0001 C CNN
+	1    2080 5310
+	1    0    0    -1  
+$EndComp
+Connection ~ 2080 5160
+Text Label 2380 4960 1    50   ~ 0
+OUT1
+Text Label 2080 5460 3    50   ~ 0
+GND
+Text Label 2380 5360 3    50   ~ 0
+GND
+$Comp
+L Transistor_BJT:TIP122 Q3
+U 1 1 5D1F3A2E
+P 3380 5160
+F 0 "Q3" H 3587 5206 50  0000 L CNN
+F 1 "TIP122" H 3220 5320 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220F-3_Horizontal_TabUp" H 3580 5085 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/TI/TIP120.pdf" H 3380 5160 50  0001 L CNN
+	1    3380 5160
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 5D1F3A35
+P 3030 5160
+F 0 "R11" V 2950 5160 50  0000 C CNN
+F 1 "R" V 3030 5160 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 2960 5160 50  0001 C CNN
+F 3 "~" H 3030 5160 50  0001 C CNN
+	1    3030 5160
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 5D1F3A3C
+P 3180 5310
+F 0 "R12" V 3100 5280 50  0000 L CNN
+F 1 "R" V 3180 5280 50  0000 L CNN
+F 2 "Common Components:Resistor_small" V 3110 5310 50  0001 C CNN
+F 3 "~" H 3180 5310 50  0001 C CNN
+	1    3180 5310
+	1    0    0    -1  
+$EndComp
+Connection ~ 3180 5160
+Text Label 3480 4960 1    50   ~ 0
+OUT2
+Text Label 3180 5460 3    50   ~ 0
+GND
+Text Label 3480 5360 3    50   ~ 0
+GND
+Text Notes 1200 4530 0    50   ~ 0
+PROXIMITY
+Text Notes 1920 5790 0    50   ~ 0
+PNUMATIC
+$Comp
+L Connector_Generic:Conn_01x05 J10
+U 1 1 5D2060DD
+P 9530 720
+F 0 "J10" V 9610 970 50  0000 R CNN
+F 1 "POWER" V 9640 800 50  0000 R CNN
+F 2 "Common Components:JST-01X05-W-0.91-L-1.95-P-3.96mm_VERTICAL" H 9530 720 50  0001 C CNN
+F 3 "~" H 9530 720 50  0001 C CNN
+	1    9530 720 
+	0    -1   -1   0   
+$EndComp
+Text Label 8990 930  2    50   ~ 0
+12V
+Text Label 8990 1030 2    50   ~ 0
+5V
+Text Label 8990 830  2    50   ~ 0
+3V3
+Text Label 8990 730  2    50   ~ 0
+GND
+Text Notes 9760 1510 0    50   ~ 0
+POWER
+$Comp
+L Device:LED D9
+U 1 1 5D20DC5E
+P 10970 1090
+F 0 "D9" V 11050 1040 50  0000 C CNN
+F 1 "5V" H 10980 1170 50  0000 C CNN
+F 2 "Common Components:LED_D3.0mm" H 10970 1090 50  0001 C CNN
+F 3 "~" H 10970 1090 50  0001 C CNN
+	1    10970 1090
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 5D20DC65
+P 10970 790
+F 0 "R16" V 11040 790 50  0000 C CNN
+F 1 "1K5" V 10970 790 50  0000 C CNN
+F 2 "Common Components:Resistor_small" V 10900 790 50  0001 C CNN
+F 3 "~" H 10970 790 50  0001 C CNN
+	1    10970 790 
+	-1   0    0    1   
+$EndComp
+Text Label 10970 1240 3    50   ~ 0
+GND
+Text Label 10970 640  2    50   ~ 0
+12V
+Text Label 9730 920  3    50   ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x04 J5
+U 1 1 5D1E691D
+P 6700 910
+F 0 "J5" V 6800 1060 50  0000 R CNN
+F 1 "GPIO" V 6800 920 50  0000 R CNN
+F 2 "Connector_JST:JST_EH_B04B-EH-A_1x04_P2.50mm_Vertical" H 6700 910 50  0001 C CNN
+F 3 "~" H 6700 910 50  0001 C CNN
+	1    6700 910 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x05 J9
+U 1 1 5D1E6EA0
+P 6720 1920
+F 0 "J9" V 6686 1632 50  0000 R CNN
+F 1 "LED" V 6830 1990 50  0000 R CNN
+F 2 "Common Components:JST-01X05-W-0.91-L-1.95-P-3.96mm_VERTICAL" H 6720 1920 50  0001 C CNN
+F 3 "~" H 6720 1920 50  0001 C CNN
+	1    6720 1920
+	0    -1   -1   0   
+$EndComp
+Text Label 6700 1110 3    50   ~ 0
+PD4
+Text Label 6800 1110 3    50   ~ 0
+PD6
+Text Label 6900 1110 3    50   ~ 0
+PD7
+Text Label 6820 2120 3    50   ~ 0
+PB7
+Text Label 6920 2120 3    50   ~ 0
+PB5
+Text Label 6720 2120 3    50   ~ 0
+PB6
+Text Label 6600 1110 3    50   ~ 0
+GND
+Text Label 6620 2120 3    50   ~ 0
+GND
+Text Label 6520 2120 3    50   ~ 0
+12V
+Wire Notes Line
+	500  5850 3780 5850
+Wire Notes Line
+	3780 5850 3780 3600
+Wire Notes Line
+	500  500  500  5850
+Wire Notes Line
+	2350 4710 2350 3600
+Wire Notes Line
+	490  4710 3780 4710
+Wire Notes Line
+	8800 1640 11110 1640
+Text Label 9630 920  3    50   ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x02 J26
+U 1 1 5D1F89EB
+P 6610 2780
+F 0 "J26" H 6660 2870 50  0000 R CNN
+F 1 "Conn_01x02" H 6660 2980 50  0001 R CNN
+F 2 "Common Components:Connector_Bornier_2" H 6610 2780 50  0001 C CNN
+F 3 "~" H 6610 2780 50  0001 C CNN
+	1    6610 2780
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J27
+U 1 1 5D1F89F2
+P 6810 2780
+F 0 "J27" H 6860 2580 50  0000 R CNN
+F 1 "Pneumatic" V 6900 3020 50  0000 R CNN
+F 2 "Common Components:Connector_Bornier_2" H 6810 2780 50  0001 C CNN
+F 3 "~" H 6810 2780 50  0001 C CNN
+	1    6810 2780
+	0    -1   -1   0   
+$EndComp
+Text Label 6810 2980 3    50   ~ 0
+12V
+Text Label 6910 2980 3    50   ~ 0
+OUT2
+Text Label 6710 2980 3    50   ~ 0
+OUT0
+Text Label 6610 2980 3    50   ~ 0
+OUT1
+Text Label 7730 2280 3    50   ~ 0
+PD3
+$Comp
+L Connector_Generic:Conn_01x01 J15
+U 1 1 5CE90818
+P 5820 6190
+F 0 "J15" H 5740 5965 50  0000 C CNN
+F 1 "Conn_01x01" H 5740 6056 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5820 6190 50  0001 C CNN
+F 3 "~" H 5820 6190 50  0001 C CNN
+	1    5820 6190
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J19
+U 1 1 5CE8FA88
+P 6440 6260
+F 0 "J19" H 6520 6302 50  0000 L CNN
+F 1 "Conn_01x01" H 6520 6211 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6440 6260 50  0001 C CNN
+F 3 "~" H 6440 6260 50  0001 C CNN
+	1    6440 6260
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J22
+U 1 1 5CE8DF6F
+P 4950 6240
+F 0 "J22" H 5030 6282 50  0000 L CNN
+F 1 "Conn_01x01" H 5030 6191 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 4950 6240 50  0001 C CNN
+F 3 "~" H 4950 6240 50  0001 C CNN
+	1    4950 6240
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J17
+U 1 1 5CE8DF68
+P 5480 6110
+F 0 "J17" H 5400 5885 50  0000 C CNN
+F 1 "Conn_01x01" H 5400 5976 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5480 6110 50  0001 C CNN
+F 3 "~" H 5480 6110 50  0001 C CNN
+	1    5480 6110
+	-1   0    0    1   
+$EndComp
+Text Label 5520 3050 2    50   ~ 0
+PE6
+Text Label 5520 2950 2    50   ~ 0
+GND
+Connection ~ 8740 4480
+Wire Wire Line
+	8740 4840 8740 4660
+Wire Wire Line
+	8740 4480 8740 4660
+Connection ~ 8740 4660
+Wire Wire Line
+	8740 5020 8740 5200
+Wire Wire Line
+	8570 4840 8740 4840
+Wire Wire Line
+	8570 4840 8570 5380
+Connection ~ 8740 4840
+NoConn ~ 5290 2370
+NoConn ~ 5940 3590
+$EndSCHEMATC
